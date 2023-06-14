@@ -1,1 +1,1 @@
-# shadowlands-chronicles
+# Shadowlands Chronicles
