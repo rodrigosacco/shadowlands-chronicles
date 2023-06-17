@@ -4,6 +4,6 @@ O Shadowlands Chronicles é um jogo considerado shooter roguelike e com elemento
 
 Código-fonte pode ser encontrado dentro da pasta source-code2
 
-[Clique aqui](https://mega.nz/file/ZjQ0WagS#etMsEQYm-bTvCxyPs6vJXdKHZNFfMmjb3miymkHgp_k) para baixar o jogo em forma de executável
+[Clique aqui](https://mega.nz/file/J6g2mRTS#FRgY6-XRTZgKTcOyku0d6Mll9IVPErtA84Opa77OnSY) para baixar o jogo em forma de executável
 
 
